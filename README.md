@@ -1,7 +1,7 @@
-# Mapping_Earthquakes
+# Mapping Earthquakes
 
 ## Overview
-Using Javascript, HTML, CSS, and APIs to analyze and visualize earthquake data.
+Using Javascript, HTML, CSS, and APIs to analyze and visualize global earthquake data from the previous week with an interactive webpage.
 
 ## Resources
 - openstreetmap.org
