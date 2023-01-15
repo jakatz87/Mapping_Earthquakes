@@ -1,2 +1,3 @@
 # Mapping_Earthquakes
-(In Process): Using Javascript and APIs to analyze and visualize earthquake data.
+# https://github.com/jakatz87/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/Full_website_page.png
+Using Javascript and APIs to analyze and visualize earthquake data.
